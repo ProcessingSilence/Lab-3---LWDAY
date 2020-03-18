@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BuildServerSettings">
+    <option name="LOGIN" value="" />
+    <option name="SERVER_URL" value="http://buildserver" />
+    <option name="REMEMBER_ME" value="true" />
+    <option name="USE_IDEA_PROXY_SETTINGS" value="true" />
+    <option name="INSPECTIONS_BUILD_TYPE_IDS" />
+    <option name="DUPLICATES_BUILD_TYPE_IDS" />
+    <option name="COVERAGE_SETTINGS" />
+    <option name="TEST_STATUS_ENABLED" value="true" />
+    <option name="TEST_STATUS_SHOW_SUCCESSFUL" value="false" />
+    <option name="POSTPONE_SUITABLE_CONFIGURATIONS_SEARCH" value="false" />
+    <option name="ARTIFACTS_BUILD_TYPE_IDS" />
+    <option name="PERFORM_COMMIT_IF_SUCCESSFUL" value="true" />
+    <option name="PERFORM_COMMIT_IF_NO_NEW_FAILED_TESTS" value="false" />
+    <option name="REQUEST_CONFIRMATON" value="false" />
+    <option name="PRE_TESTED_COMMIT" value="true" />
+    <option name="FILTER_BY_STATUS" value="false" />
+    <option name="FILTER_MARKED_AS_FIXED" value="false" />
+    <option name="SHOW_CLOSE_PROMPT" value="true" />
+    <option name="TOOL_WINDOW_SELECTED_CONTENT_INDEX" value="0" />
+    <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bfc92a6-39ef-4245-9877-bb78cda8a52a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="false">
+              <entry file="file://$PROJECT_DIR$/Assets/SceneChange.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state>
+                    <caret selection-end-column="57" />
+                    <folding>
+                      <marker date="1584492603353" expanded="false" signature="65:194" ph="..." />
+                      <marker date="1584492603353" expanded="true" signature="236:838" ph="{...}" />
+                      <marker date="1584492603353" expanded="true" signature="401:572" ph="{...}" />
+                      <marker date="1584492603353" expanded="true" signature="634:836" ph="{...}" />
+                      <marker date="1584492603353" expanded="true" signature="708:830" ph="{...}" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/Assets/RaycastSpawner.cs">
+                <provider selected="true" editor-type-id="text-editor">
+                  <state relative-caret-position="-229">
+                    <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+                    <folding>
+                      <marker date="1584492695751" expanded="false" signature="65:159" ph="..." />
+                      <marker date="1584492695751" expanded="true" signature="204:4349" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="873:1120" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1236:1341" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1418:2785" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1465:1531" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1572:1637" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1688:1822" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1745:1812" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="1854:2483" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="2827:4347" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="2977:4341" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="3196:3316" ph="/* Both objects get instantiated on raycast x and z position. ... */" />
+                      <marker date="1584492695751" expanded="true" signature="3354:4050" ph="{...}" />
+                      <marker date="1584492695751" expanded="true" signature="4131:4331" ph="{...}" />
+                    </folding>
+                  </state>
+                </provider>
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Plane.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="931">
+              <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+              <folding>
+                <marker date="1584493443472" expanded="true" signature="0:139" ph="/* Script heavily edited by Liam Day, GDD-175, Spring semester 2020 ... */" />
+                <marker date="1584493443472" expanded="true" signature="147:219" ph="..." />
+                <marker date="1584493443472" expanded="true" signature="334:4572" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="390:473" ph="/* Offset of crater xz position to object position ... */" />
+                <marker date="1584493443472" expanded="true" signature="1097:1195" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="1227:1938" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="1315:1932" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="1453:1925" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="1630:1677" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="1693:1818" ph="/* Deform the ground based on object's y-pos -1. ... */" />
+                <marker date="1584493443472" expanded="true" signature="1830:1917" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="1965:2472" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="2512:3080" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="2670:2878" ph="/* Use nested for loop with width and height to generate grid. ... */" />
+                <marker date="1584493443472" expanded="true" signature="2912:3058" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="2952:3054" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="3214:3813" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="3467:3794" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="3917:4570" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="4168:4547" ph="{...}" />
+                <marker date="1584493443472" expanded="true" signature="4212:4543" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/ListTutorial.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+              <folding>
+                <marker date="1584493576303" expanded="true" signature="0:210" ph="/* I did not make this script, Script made based on Unity C## Tutorials: Part 19 - Lists: https://youtu.be/lE18luc ... */" />
+                <marker date="1584493576303" expanded="false" signature="218:290" ph="..." />
+                <marker date="1584493576303" expanded="true" signature="333:1170" ph="{...}" />
+                <marker date="1584493576303" expanded="true" signature="340:379" ph="/* Declaration ... */" />
+                <marker date="1584493576303" expanded="true" signature="437:500" ph="/* Initialization ... */" />
+                <marker date="1584493576303" expanded="true" signature="670:1168" ph="{...}" />
+                <marker date="1584493576303" expanded="true" signature="1192:1201" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>recalc</find>
+      <find>w</find>
+      <find>RecalculateNormals</find>
+      <find>Plane</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>width</replace>
+    </replaceStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/MeshDeformer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ObjectList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/SceneChange.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RaycastSpawner.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/ListTutorial.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Deformer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/RectanglePlane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MeshDeformerInput.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/MeshDeformer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Deformer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SceneChange.cs" />
+        <option value="$PROJECT_DIR$/Assets/RaycastSpawner.cs" />
+        <option value="$PROJECT_DIR$/Assets/Plane.cs" />
+        <option value="$PROJECT_DIR$/Assets/ListTutorial.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1280" />
+    <option name="height" value="1400" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bfc92a6-39ef-4245-9877-bb78cda8a52a" name="Default Changelist" comment="" />
+      <created>1584028288990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584028288990</updated>
+      <workItem from="1584028302782" duration="262000" />
+      <workItem from="1584034816912" duration="567000" />
+      <workItem from="1584039580559" duration="6321000" />
+      <workItem from="1584118177801" duration="14608000" />
+      <workItem from="1584299956207" duration="9277000" />
+      <workItem from="1584313844125" duration="5194000" />
+      <workItem from="1584455698409" duration="19094000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55323000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.33888888" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="TeamCity" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32929516" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" order="16" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/RectanglePlane.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1583679897000" expanded="false" signature="6:44" ph="..." />
+            <marker date="1583679897000" expanded="true" signature="262:697" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="500:598" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="635:662" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="686:695" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MeshDeformer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1584053164793" expanded="true" signature="101:1989" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="307:756" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="642:694" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="774:1052" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="870:895" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="1081:1436" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="1498:1649" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="1603:1646" ph="{...}" />
+            <marker date="1584053164793" expanded="true" signature="1710:1987" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/MeshDeformerInput.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <marker date="1583679897000" expanded="true" signature="67:585" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="150:209" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="183:206" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="232:583" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="365:580" ph="{...}" />
+            <marker date="1583679897000" expanded="true" signature="454:576" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ObjectList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <marker date="1584457507717" expanded="false" signature="6:78" ph="..." />
+            <marker date="1584457507717" expanded="true" signature="119:293" ph="{...}" />
+            <marker date="1584457507717" expanded="true" signature="191:212" ph="{...}" />
+            <marker date="1584457507717" expanded="true" signature="270:291" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Deformer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+          <folding>
+            <marker date="1584479174781" expanded="true" signature="0:1686" ph="/* using System.Collections; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/SceneChange.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="57" />
+          <folding>
+            <marker date="1584492603353" expanded="false" signature="65:194" ph="..." />
+            <marker date="1584492603353" expanded="true" signature="236:838" ph="{...}" />
+            <marker date="1584492603353" expanded="true" signature="401:572" ph="{...}" />
+            <marker date="1584492603353" expanded="true" signature="634:836" ph="{...}" />
+            <marker date="1584492603353" expanded="true" signature="708:830" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/RaycastSpawner.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-229">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <marker date="1584492695751" expanded="false" signature="65:159" ph="..." />
+            <marker date="1584492695751" expanded="true" signature="204:4349" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="873:1120" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1236:1341" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1418:2785" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1465:1531" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1572:1637" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1688:1822" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1745:1812" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="1854:2483" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="2827:4347" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="2977:4341" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="3196:3316" ph="/* Both objects get instantiated on raycast x and z position. ... */" />
+            <marker date="1584492695751" expanded="true" signature="3354:4050" ph="{...}" />
+            <marker date="1584492695751" expanded="true" signature="4131:4331" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ListTutorial.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+          <folding>
+            <marker date="1584493576303" expanded="true" signature="0:210" ph="/* I did not make this script, Script made based on Unity C## Tutorials: Part 19 - Lists: https://youtu.be/lE18luc ... */" />
+            <marker date="1584493576303" expanded="false" signature="218:290" ph="..." />
+            <marker date="1584493576303" expanded="true" signature="333:1170" ph="{...}" />
+            <marker date="1584493576303" expanded="true" signature="340:379" ph="/* Declaration ... */" />
+            <marker date="1584493576303" expanded="true" signature="437:500" ph="/* Initialization ... */" />
+            <marker date="1584493576303" expanded="true" signature="670:1168" ph="{...}" />
+            <marker date="1584493576303" expanded="true" signature="1192:1201" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Plane.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="53" lean-forward="true" selection-start-line="49" selection-start-column="53" selection-end-line="49" selection-end-column="53" />
+          <folding>
+            <marker date="1584493443472" expanded="true" signature="0:139" ph="/* Script heavily edited by Liam Day, GDD-175, Spring semester 2020 ... */" />
+            <marker date="1584493443472" expanded="true" signature="147:219" ph="..." />
+            <marker date="1584493443472" expanded="true" signature="334:4572" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="390:473" ph="/* Offset of crater xz position to object position ... */" />
+            <marker date="1584493443472" expanded="true" signature="1097:1195" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="1227:1938" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="1315:1932" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="1453:1925" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="1630:1677" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="1693:1818" ph="/* Deform the ground based on object's y-pos -1. ... */" />
+            <marker date="1584493443472" expanded="true" signature="1830:1917" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="1965:2472" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="2512:3080" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="2670:2878" ph="/* Use nested for loop with width and height to generate grid. ... */" />
+            <marker date="1584493443472" expanded="true" signature="2912:3058" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="2952:3054" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="3214:3813" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="3467:3794" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="3917:4570" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="4168:4547" ph="{...}" />
+            <marker date="1584493443472" expanded="true" signature="4212:4543" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
